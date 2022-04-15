@@ -1,0 +1,5 @@
+begin
+	button = KEY_1
+	prog = irexec
+	config = test
+end
